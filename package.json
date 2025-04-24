@@ -1,0 +1,21 @@
+{
+  "name": "com.kc.zxing",
+  "displayName": "KC.Zxing",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "",
+  "author": {
+    "name": "KunZhou",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url":""
+  },
+  "relatedPackages": {},
+  "license": "MIT",
+  "dependencies": {},
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  }
+}
